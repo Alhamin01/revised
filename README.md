@@ -24,5 +24,7 @@ Feel free sharing suggestion to help refine the purity of the code I write.
 
 I have experience in python and arduino programming
 
+shall be showing you projects realting to agric as well
+
 thanks 
 
