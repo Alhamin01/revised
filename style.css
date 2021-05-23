@@ -17,6 +17,12 @@ body{
     font-size: 21px;
 }
 
+.row{
+    
+    content: "";
+    box-sizing: border-box;
+    clear: both;
+}
 .header{
     color: rebeccapurple;
     font-family: cursive;
@@ -90,7 +96,5 @@ hr{
     background-color: grey;
 }
 
-#footer{
-    
-    float: none;
+
 }
