@@ -80,3 +80,10 @@ li a:hover {
     color: black;
     box-shadow: 0 0 12px brown;
 }
+
+hr{
+    border: 2px solid black;
+    padding: 5px;
+    color: green;
+    background-color: grey;
+}
