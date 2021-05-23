@@ -18,7 +18,5 @@ Feel free sharing suggestion to help refine the purity of the code I write.
  
  funny projects
  
- hands on new technologies 
- 
 thanks 
 
