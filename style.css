@@ -3,7 +3,7 @@
     font-size: 14px;
 }
 body{
-    background-color: burlywood;
+    background-color:  slategrey;
     color: black;
 }
 
@@ -20,6 +20,8 @@ body{
 .header{
     color: rebeccapurple;
     font-family: cursive;
+    background-color: white;
+    border: 1px solid #333;
 }
 
 ul{
