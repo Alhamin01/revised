@@ -89,3 +89,12 @@ hr{
     color: green;
     background-color: grey;
 }
+footer{
+    
+    clear: both;
+    background-color: aliceblue;
+    padding: 15px;
+    font-family: cursive;
+    font-size: 17px;
+    border: 1px solid grey;
+}
