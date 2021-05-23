@@ -87,3 +87,8 @@ hr{
     color: green;
     background-color: grey;
 }
+
+#footer{
+    
+    float: none;
+}
