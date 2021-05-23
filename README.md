@@ -16,7 +16,6 @@ Feel free sharing suggestion to help refine the purity of the code I write.
  
  basic html and css code 
  
- funny projects
  
 thanks 
 
