@@ -24,7 +24,5 @@ Feel free sharing suggestion to help refine the purity of the code I write.
 
 I have experience in python and arduino programming
 
-and i shall be adding code in both languaages with which i used to solved problems
-
 thanks 
 
